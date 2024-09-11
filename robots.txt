@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://meme-farmer-studios.github.io/meme-farmer-studios.github.io/sitemap.xml
